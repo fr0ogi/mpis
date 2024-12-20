@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/routeEditText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Маршрут 1" />
+
+    <EditText
+        android:id="@+id/routeEditText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Маршрут 2" />
+
+    <EditText
+        android:id="@+id/routeEditText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Маршрут 3" />
+
+    <EditText
+        android:id="@+id/routeEditText4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Маршрут 4" />
+
+    <EditText
+        android:id="@+id/routeEditText5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Маршрут 5" />
+
+    <EditText
+        android:id="@+id/routeEditText6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Маршрут 6" />
+
+    <Button
+        android:id="@+id/okButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK" />
+
+    <Button
+        android:id="@+id/lastNameButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Кульбеда Кирилл" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">laba_2</string>
+    <string name="single_tap_confirmed">onSingleTapConfirmed: %s</string>
+    <string name="on_double_tap">onDoubleTap: %s</string>
+    <string name="on_double_tap_event">onDoubleTapEvent: %s</string>
+    <string name="on_down">onDown: %s</string>
+    <string name="on_show_press">onShowPress: %s</string>
+    <string name="on_single_tap_up">onSingleTapUp: %s</string>
+    <string name="on_scroll">onScroll: %s, %s</string>
+    <string name="on_long_press">onLongPress: %s</string>
+    <string name="on_fling">onFling: %s, %s</string>
+    <string name="textView">Произведите действие на экране</string>
+</resources>
